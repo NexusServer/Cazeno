@@ -1,0 +1,19 @@
+{
+  "aliases": [],
+  "description": "도박케이스를 추가합니다",
+  "overloads": {
+    "default": {
+      "input": {
+        "parameters": [
+          {
+            "name": "타입",
+            "type": "rawtext",
+            "optional": true
+          }
+        ]
+      },
+      "output": {}
+    }
+  },
+  "permission": "any"
+}

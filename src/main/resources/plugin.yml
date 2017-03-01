@@ -1,0 +1,5 @@
+name: Cazeno
+main: cazeno.Cazno
+author: nexus
+version: 0.0.1
+api: [1.0.0]
